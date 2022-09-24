@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.valeryvash</groupId>
-    <artifactId>proselyte_rest_demo</artifactId>
+    <artifactId>rest_demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
